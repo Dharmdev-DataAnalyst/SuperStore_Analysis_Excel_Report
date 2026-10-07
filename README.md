@@ -8,7 +8,7 @@ The dashboard provides a centralized view of key business KPIs and helps identif
 
 ## Dashboard Preview
 
-![Superstore Sales Analysis Dashboard](DashboardImage.png)
+![Superstore Sales Analysis Dashboard](Dashboard_Images/DashboardImage.png)
 
 ---
 
